@@ -8,7 +8,7 @@ In this part we will use the transformations provided by the Kitti dataset : htt
 
 This is not just allow to know the depth of a set of 2d points in the image, but also to know the color of the 3D points. We can then <a href="https://github.com/cherifsid/3D-scene-reconstruction-using-camera-and-Lidar-from-KITTI-dataset">(Project source)</a> build a cloud of colored points.
 
-The objective of this practical work is to carry out the example in Result figure figure .
+The objective of this practical work is to carry out the example in Result figure .
 The plotted points represent the projection of 3D points in the image. The color of each dot indicates the depth of this point.
 The 'jet' color map is used in this case
 
