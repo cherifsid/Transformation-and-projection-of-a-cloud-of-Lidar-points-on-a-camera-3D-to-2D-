@@ -6,7 +6,7 @@ In this part we will use the transformations provided by the Kitti dataset : htt
   <img src="/result/KITTI_ENVIREMNT.PNG" width="1000" />
 </p>
 
-This allows to know the depth of a set of 2d points in the image, but also to know the color of the 3D points. We can then (Project source) build a cloud of colored points.
+This is not just allow to know the depth of a set of 2d points in the image, but also to know the color of the 3D points. We can then (Project source) build a cloud of colored points.
 
 The objective of this practical work is to carry out the example in Result figure figure .
 The plotted points represent the projection of 3D points in the image. The color of each dot indicates the depth of this point.
